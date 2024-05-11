@@ -1,6 +1,6 @@
 # Hi there, I'm fikerte kilfu! 👋
 
-I'm a passionate full-stack developer with expertise in a variety of technologies. Here's a brief overview of my skills and experience:
+I'm a passionate ##full-stack developer## with expertise in a variety of technologies. Here's a brief overview of my skills and experience:
 
 ## Skills
 
