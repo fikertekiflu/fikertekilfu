@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **full-stack developer **with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
+I'm a passionate **Software engineering student **with expertise in a variety of technologies. I love building responsive web applications and solving challenging problems.
 
 ## 🔧 Skills
 
